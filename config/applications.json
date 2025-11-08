@@ -2914,17 +2914,17 @@
     "NVIDIA": {
         "category": "Utilities",
         "choco": "na",
-        "content": "NVIDIA App",
-        "description": "NVIDIA GeForce app",
-        "link": "https://www.nvidia.com/en-us/software/nvidia-app/",
-        "winget": "NVIDIA.NVIDIAApp"
+        "content": "NVIDIA GeForce Experience",
+        "description": "NVIDIA GPU driver and performance management application",
+        "link": "https://www.nvidia.com/en-us/geforce/geforce-experience/",
+        "winget": "NVIDIA.NVIDIAGeforceExperience"
     },
     "AMD": {
         "category": "Utilities",
         "choco": "na",
-        "content": "AMD Radeon App",
-        "description": "AMD GPU software and driver manager",
-        "link": "na",
-        "winget": "AMD.RadeonSoftware"
+        "content": "AMD Software: Adrenalin Edition",
+        "description": "AMD Radeon GPU driver and performance management suite",
+        "link": "https://www.amd.com/en/support",
+        "winget": "AMD.AMDSoftwareCloudEdition"
     }
 }
